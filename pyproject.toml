@@ -1,5 +1,5 @@
 [project]
-name = "finance_machine_learning"
+name = "TestFinance"
 version = "0.1.0"
 description = "A simple Python project using uv for ml in area of finance research"
 requires-python = ">=3.12"
